@@ -1,0 +1,15 @@
+/Users/charliebatista/Desktop/CSHARP/Udemy/bin/Debug/net5.0/Udemy.deps.json
+/Users/charliebatista/Desktop/CSHARP/Udemy/bin/Debug/net5.0/Udemy.runtimeconfig.json
+/Users/charliebatista/Desktop/CSHARP/Udemy/bin/Debug/net5.0/Udemy.runtimeconfig.dev.json
+/Users/charliebatista/Desktop/CSHARP/Udemy/bin/Debug/net5.0/Udemy.dll
+/Users/charliebatista/Desktop/CSHARP/Udemy/bin/Debug/net5.0/ref/Udemy.dll
+/Users/charliebatista/Desktop/CSHARP/Udemy/bin/Debug/net5.0/Udemy.pdb
+/Users/charliebatista/Desktop/CSHARP/Udemy/obj/Debug/net5.0/Udemy.csprojAssemblyReference.cache
+/Users/charliebatista/Desktop/CSHARP/Udemy/obj/Debug/net5.0/Udemy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charliebatista/Desktop/CSHARP/Udemy/obj/Debug/net5.0/Udemy.AssemblyInfoInputs.cache
+/Users/charliebatista/Desktop/CSHARP/Udemy/obj/Debug/net5.0/Udemy.AssemblyInfo.cs
+/Users/charliebatista/Desktop/CSHARP/Udemy/obj/Debug/net5.0/Udemy.csproj.CoreCompileInputs.cache
+/Users/charliebatista/Desktop/CSHARP/Udemy/obj/Debug/net5.0/Udemy.dll
+/Users/charliebatista/Desktop/CSHARP/Udemy/obj/Debug/net5.0/ref/Udemy.dll
+/Users/charliebatista/Desktop/CSHARP/Udemy/obj/Debug/net5.0/Udemy.pdb
+/Users/charliebatista/Desktop/CSHARP/Udemy/obj/Debug/net5.0/Udemy.genruntimeconfig.cache

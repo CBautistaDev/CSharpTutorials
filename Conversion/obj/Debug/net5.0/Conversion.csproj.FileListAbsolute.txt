@@ -1,0 +1,15 @@
+/Users/charliebatista/Desktop/CSHARP/Conversion/bin/Debug/net5.0/Conversion.deps.json
+/Users/charliebatista/Desktop/CSHARP/Conversion/bin/Debug/net5.0/Conversion.runtimeconfig.json
+/Users/charliebatista/Desktop/CSHARP/Conversion/bin/Debug/net5.0/Conversion.runtimeconfig.dev.json
+/Users/charliebatista/Desktop/CSHARP/Conversion/bin/Debug/net5.0/Conversion.dll
+/Users/charliebatista/Desktop/CSHARP/Conversion/bin/Debug/net5.0/ref/Conversion.dll
+/Users/charliebatista/Desktop/CSHARP/Conversion/bin/Debug/net5.0/Conversion.pdb
+/Users/charliebatista/Desktop/CSHARP/Conversion/obj/Debug/net5.0/Conversion.csprojAssemblyReference.cache
+/Users/charliebatista/Desktop/CSHARP/Conversion/obj/Debug/net5.0/Conversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charliebatista/Desktop/CSHARP/Conversion/obj/Debug/net5.0/Conversion.AssemblyInfoInputs.cache
+/Users/charliebatista/Desktop/CSHARP/Conversion/obj/Debug/net5.0/Conversion.AssemblyInfo.cs
+/Users/charliebatista/Desktop/CSHARP/Conversion/obj/Debug/net5.0/Conversion.csproj.CoreCompileInputs.cache
+/Users/charliebatista/Desktop/CSHARP/Conversion/obj/Debug/net5.0/Conversion.dll
+/Users/charliebatista/Desktop/CSHARP/Conversion/obj/Debug/net5.0/ref/Conversion.dll
+/Users/charliebatista/Desktop/CSHARP/Conversion/obj/Debug/net5.0/Conversion.pdb
+/Users/charliebatista/Desktop/CSHARP/Conversion/obj/Debug/net5.0/Conversion.genruntimeconfig.cache

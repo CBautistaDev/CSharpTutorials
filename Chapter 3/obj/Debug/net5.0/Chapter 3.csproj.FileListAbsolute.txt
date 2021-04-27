@@ -1,0 +1,15 @@
+/Users/charliebatista/Desktop/CSHARP/Chapter 3/obj/Debug/net5.0/Chapter 3.csprojAssemblyReference.cache
+/Users/charliebatista/Desktop/CSHARP/Chapter 3/obj/Debug/net5.0/Chapter 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charliebatista/Desktop/CSHARP/Chapter 3/obj/Debug/net5.0/Chapter 3.AssemblyInfoInputs.cache
+/Users/charliebatista/Desktop/CSHARP/Chapter 3/obj/Debug/net5.0/Chapter 3.AssemblyInfo.cs
+/Users/charliebatista/Desktop/CSHARP/Chapter 3/obj/Debug/net5.0/Chapter 3.csproj.CoreCompileInputs.cache
+/Users/charliebatista/Desktop/CSHARP/Chapter 3/bin/Debug/net5.0/Chapter 3.deps.json
+/Users/charliebatista/Desktop/CSHARP/Chapter 3/bin/Debug/net5.0/Chapter 3.runtimeconfig.json
+/Users/charliebatista/Desktop/CSHARP/Chapter 3/bin/Debug/net5.0/Chapter 3.runtimeconfig.dev.json
+/Users/charliebatista/Desktop/CSHARP/Chapter 3/bin/Debug/net5.0/Chapter 3.dll
+/Users/charliebatista/Desktop/CSHARP/Chapter 3/bin/Debug/net5.0/ref/Chapter 3.dll
+/Users/charliebatista/Desktop/CSHARP/Chapter 3/bin/Debug/net5.0/Chapter 3.pdb
+/Users/charliebatista/Desktop/CSHARP/Chapter 3/obj/Debug/net5.0/Chapter 3.dll
+/Users/charliebatista/Desktop/CSHARP/Chapter 3/obj/Debug/net5.0/ref/Chapter 3.dll
+/Users/charliebatista/Desktop/CSHARP/Chapter 3/obj/Debug/net5.0/Chapter 3.pdb
+/Users/charliebatista/Desktop/CSHARP/Chapter 3/obj/Debug/net5.0/Chapter 3.genruntimeconfig.cache

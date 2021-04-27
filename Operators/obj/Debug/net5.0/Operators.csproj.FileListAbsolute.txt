@@ -1,0 +1,15 @@
+/Users/charliebatista/Desktop/CSHARP/Operators/bin/Debug/net5.0/Operators.deps.json
+/Users/charliebatista/Desktop/CSHARP/Operators/bin/Debug/net5.0/Operators.runtimeconfig.json
+/Users/charliebatista/Desktop/CSHARP/Operators/bin/Debug/net5.0/Operators.runtimeconfig.dev.json
+/Users/charliebatista/Desktop/CSHARP/Operators/bin/Debug/net5.0/Operators.dll
+/Users/charliebatista/Desktop/CSHARP/Operators/bin/Debug/net5.0/ref/Operators.dll
+/Users/charliebatista/Desktop/CSHARP/Operators/bin/Debug/net5.0/Operators.pdb
+/Users/charliebatista/Desktop/CSHARP/Operators/obj/Debug/net5.0/Operators.csprojAssemblyReference.cache
+/Users/charliebatista/Desktop/CSHARP/Operators/obj/Debug/net5.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charliebatista/Desktop/CSHARP/Operators/obj/Debug/net5.0/Operators.AssemblyInfoInputs.cache
+/Users/charliebatista/Desktop/CSHARP/Operators/obj/Debug/net5.0/Operators.AssemblyInfo.cs
+/Users/charliebatista/Desktop/CSHARP/Operators/obj/Debug/net5.0/Operators.csproj.CoreCompileInputs.cache
+/Users/charliebatista/Desktop/CSHARP/Operators/obj/Debug/net5.0/Operators.dll
+/Users/charliebatista/Desktop/CSHARP/Operators/obj/Debug/net5.0/ref/Operators.dll
+/Users/charliebatista/Desktop/CSHARP/Operators/obj/Debug/net5.0/Operators.pdb
+/Users/charliebatista/Desktop/CSHARP/Operators/obj/Debug/net5.0/Operators.genruntimeconfig.cache

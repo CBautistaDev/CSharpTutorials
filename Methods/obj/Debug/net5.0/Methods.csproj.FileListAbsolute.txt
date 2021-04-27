@@ -1,0 +1,15 @@
+/Users/charliebatista/Desktop/CSHARP/Methods/bin/Debug/net5.0/Methods.deps.json
+/Users/charliebatista/Desktop/CSHARP/Methods/bin/Debug/net5.0/Methods.runtimeconfig.json
+/Users/charliebatista/Desktop/CSHARP/Methods/bin/Debug/net5.0/Methods.runtimeconfig.dev.json
+/Users/charliebatista/Desktop/CSHARP/Methods/bin/Debug/net5.0/Methods.dll
+/Users/charliebatista/Desktop/CSHARP/Methods/bin/Debug/net5.0/ref/Methods.dll
+/Users/charliebatista/Desktop/CSHARP/Methods/bin/Debug/net5.0/Methods.pdb
+/Users/charliebatista/Desktop/CSHARP/Methods/obj/Debug/net5.0/Methods.csprojAssemblyReference.cache
+/Users/charliebatista/Desktop/CSHARP/Methods/obj/Debug/net5.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charliebatista/Desktop/CSHARP/Methods/obj/Debug/net5.0/Methods.AssemblyInfoInputs.cache
+/Users/charliebatista/Desktop/CSHARP/Methods/obj/Debug/net5.0/Methods.AssemblyInfo.cs
+/Users/charliebatista/Desktop/CSHARP/Methods/obj/Debug/net5.0/Methods.csproj.CoreCompileInputs.cache
+/Users/charliebatista/Desktop/CSHARP/Methods/obj/Debug/net5.0/Methods.dll
+/Users/charliebatista/Desktop/CSHARP/Methods/obj/Debug/net5.0/ref/Methods.dll
+/Users/charliebatista/Desktop/CSHARP/Methods/obj/Debug/net5.0/Methods.pdb
+/Users/charliebatista/Desktop/CSHARP/Methods/obj/Debug/net5.0/Methods.genruntimeconfig.cache
